@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+.container{
+    text-align: center;
+}
+
+
+form button{
+    font-weight: bold;
+    background-color: greenyellow;
+    width: 40px;
+    height: 30px;   
+}
+form input{
+    margin-top: 10px;
+    width: 200px;
+    height: 30px;
+}
+
+form h1
+{
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 30px;
+}
+
+table {
+    width: 400px;
+    margin-top: 30px;
+    font-family: "Roboto", sans-serif;
+    border-radius: 5px;
+    background-color: rgb(232, 229, 229);
+
+}
+
+.tabela {
+    display:flex;
+    justify-content: center;
+}
+
+
